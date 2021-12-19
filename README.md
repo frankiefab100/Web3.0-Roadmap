@@ -39,47 +39,47 @@ The contents of this repository reveals Blockchain Development curriculum, code 
 - Web3.py
 
 ## Introduction to Ethereum
-1a. Ethereum White paper
-Formation of Ethereum: The Journey
-Philosophy of Ethereum
+   - Ethereum White paper
+   - Formation of Ethereum: The Journey
+   - Philosophy of Ethereum
    
 ## Ethereum Fundamentals
-2a. Ethereum World Computer
-Ethereum Virtual Machine (EVM)
-Ethereum World State
-Gas & Ether
-Accounts
-Block
-Ethereum Transaction
-Account Balance Model
-Ethereum Transaction Life Cycle
+   - Ethereum World Computer
+   - Ethereum Virtual Machine (EVM)
+   - Ethereum World State
+   - Gas & Ether
+   - Accounts
+   - Block
+   - Ethereum Transaction
+   - Account Balance Model
+   - Ethereum Transaction Life Cycle
 
 ## DApps & Smart Contracts
-3a. Understanding Decentralized Application (DApp)
-Introduction to DApp
-DApp Application Stack
-What is Web3 ?
+   - Understanding Decentralized Application (DApp)
+   - Introduction to DApp
+   - DApp Application Stack
+   - What is Web3 ?
 
 ## Introduction to Smart Contracts
-What is a Smart Contract ?
-Need and Use of Smart Contract
-Writing First Smart Contract
-Running First Smart Contract
+- What is a Smart Contract ?
+- Need and Use of Smart Contract
+- Writing First Smart Contract
+- Running First Smart Contract
 
 ## Remix IDE
-Remix IDE File Explorer & Code Editor
-Remix IDE Compiler Tab
-Remix IDE Deploy & Run Transactions Tab
-Remix IDE Offline Mode
+- Remix IDE File Explorer & Code Editor
+- Remix IDE Compiler Tab
+- Remix IDE Deploy & Run Transactions Tab
+- Remix IDE Offline Mode
 
 ## Introduction to Solidity
 4a.  Solidity Smart Contract Language
-Components of a Contract
+- Components of a Contract
 
 4b. Basic Data Types
-Integers
+- Integers
 String
-Address
+- Address
 Enums
 Booleans
 Fixed-size Byte Arrays

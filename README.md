@@ -21,26 +21,27 @@ The contents of this repository reveals Blockchain Development curriculum, code 
    - Proof of Reserve
    - Proof of Competence
 
-Visual Studio Code
+## Tools
+- Remix IDE
+- Metamask
 
 ## Languages
 - Solidity
 - Vyper
 - Rust
 - Golang
-- Web3.js
+- Javascript
 
-## Tools
-- Metamask
-- Remix IDE
+# Libraries
 - Truffle
 - Ganache
-- 
+- Web3.js
+- Web3.py
 
 ## Introduction to Ethereum
 1a. Ethereum White paper
-   Formation of Ethereum: The Journey
-   Philosophy of Ethereum
+Formation of Ethereum: The Journey
+Philosophy of Ethereum
    
 ## Ethereum Fundamentals
 2a. Ethereum World Computer

@@ -1,5 +1,5 @@
 # Web3.0-Roadmap
-The contents of this repository reveals Blockchain Development curriculum, code snippets and best of practice learnt on the course of transitioning from Web2.0
+Blockchain Development curriculum, code snippets and best of practice learnt on the course of transitioning from Web2.0
 
 ## Pre-requisite:
 - HTML/CSS
@@ -20,6 +20,10 @@ The contents of this repository reveals Blockchain Development curriculum, code 
    - Practical Byzantine Fault Tolerance
    - Proof of Reserve
    - Proof of Competence
+   - Proof of Capacity
+   - Proof of Resource
+   - Proof of Activity
+   - Proof of Importance
 
 ## Tools
 - Remix IDE
@@ -78,82 +82,82 @@ The contents of this repository reveals Blockchain Development curriculum, code 
 
 4b. Basic Data Types
 - Integers
-String
+- String
 - Address
-Enums
-Booleans
-Fixed-size Byte Arrays
-Fixed Point Numbers
+- Enums
+- Booleans
+- Fixed-size Byte Arrays
+- Fixed Point Numbers
 
 4c. Solidity Variables
-Introduction Solidity Variables
-Visibility/Access Modifiers
+- Introduction Solidity Variables
+- Visibility/Access Modifiers
 
 4d. Functions in Solidity
-Introduction to Functions in Solidity
-Visibility/Access Specifiers
-Mutability
-Function Modifier
+- Introduction to Functions in Solidity
+- Visibility/Access Specifiers
+- Mutability
+- Function Modifier
 
 4e. Control Structures
-Introduction to Control Structures
-If Statement
-For loop
-While loop
-Do-while loop
-Loop Control
+- Introduction to Control Structures
+- If Statement
+- For loop
+- While loop
+- Do-while loop
+- Loop Control
 
 4f. Arrays and Structs
-Arrays
-Structs
-Data Location
+- Arrays
+- Structs
+- Data Location
 
 4g. Mapping
-Introduction to Mapping
-Iterable Mappings
+- Introduction to Mapping
+- Iterable Mappings
 
 ## Interacting with Ethereum Network
 5a. Introduction
-Introduction to Ethereum Network
-Ethereum Clients
-Ethereum Node Simulation
+- Introduction to Ethereum Network
+- Ethereum Clients
+- Ethereum Node Simulation
 
 5b. Ethereum Private Node
-Ethereum Network Settings
-Installing Go-Ethereum Client
-Running an Ethereum Node
-Starting Mining
-Transferring Ether
-Dev Node
+- Ethereum Network Settings
+- Installing Go-Ethereum Client
+- Running an Ethereum Node
+- Starting Mining
+- Transferring Ether
+- Dev Node
 
 5c. MetaMask Light Client
-Introduction to MetaMask
-Setting up MetaMask
-Test Ether & Faucet
-Geth and MetaMask
-Remix IDE and MetaMask
-Etherscan - The Block Explorer
+- Introduction to MetaMask
+- Setting up MetaMask
+- Test Ether & Faucet
+- Geth and MetaMask
+- Remix IDE and MetaMask
+- Etherscan - The Block Explorer
 
 5d. Ganache
-Ganache - CLI
-Ganache - GUI
-Ganache and Remix
-Ganache and MetaMask
+- Ganache CLI
+- Ganache GUI
+- Ganache and Remix
+- Ganache and MetaMask
 
 ## DApp Development
 6a. Introduction
-Introduction to DApp Development
-What is Web3Js ?
-Playing with Web3Js
-Smart Contract Deployment
+- Introduction to DApp Development
+- What is Web3Js
+- Playing with Web3Js
+- Smart Contract Deployment
 
 6b. Part 1: Contract
-Writing Smart Contract
-Run an Ethereum node
-Compile and Deploy the Contract
+- Writing Smart Contract
+- Run an Ethereum node
+- Compile and Deploy the Contract
 
 6c. Part 2: Interface
-Steps and Architecture
-User Interface Design
-Client-side code for communicating with MetaMask
-Run the Application
+- Steps and Architecture
+- User Interface Design
+- Client-side code for communicating with MetaMask
+- Run the Application
